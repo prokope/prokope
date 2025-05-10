@@ -5,6 +5,14 @@
 
 <h1 align="center">Paulo Procopio</h1>
 
+<div>
+  <p align="center"><strong style="font-size: 30;">About me</strong></p>
+  
+  <p align="center">
+    Passionate about AI, Computer Science, Mathematics and Physics. Currently studying Python and exploring Data Science.  
+  </p>
+</div>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prokope&theme=transparent">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prokope&theme=transparent">
