@@ -26,7 +26,7 @@
     </td>
     <td align="center">
       <h3>Contact</h3>
-      <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+      <a href="https://www.linkedin.com/in/paulo-procopio" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
       </a>
     </td>
