@@ -1,7 +1,7 @@
 ## Hello, World.
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prokope&hide=issues&show_icons=true&bg_color=45,ff7f50,ff5e8e,98508E&hide_border=true&title_color=f0f0f0&icon_color=f0f0f0&text_color=f0f0f0)](https://github.com/anuraghazra/github-readme-stats" height="200">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prokope&layout=compact&bg_color=45,994D77,ff5e8e,ff7f50&hide_border=true&title_color=f0f0f0&text_color=f0f0f0)](https://github.com/anuraghazra/github-readme-stats" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=prokope&hide=issues&show_icons=true&bg_color=45,ff7f50,ff5e8e,98508E&hide_border=true&title_color=f0f0f0&icon_color=f0f0f0&text_color=f0f0f0)](https://github.com/anuraghazra/github-readme-stats" height="160">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prokope&layout=compact&bg_color=45,994D77,ff5e8e,ff7f50&hide_border=true&title_color=f0f0f0&text_color=f0f0f0)](https://github.com/anuraghazra/github-readme-stats" height="160">
 </p>
 <!--
 **prokope/prokope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
